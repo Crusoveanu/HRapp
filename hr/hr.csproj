@@ -97,13 +97,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\201812101758444_suplimentA.cs" />
-    <Compile Include="Migrations\201812101758444_suplimentA.Designer.cs">
-      <DependentUpon>201812101758444_suplimentA.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201812120740501_deleteSup.cs" />
-    <Compile Include="Migrations\201812120740501_deleteSup.Designer.cs">
-      <DependentUpon>201812120740501_deleteSup.cs</DependentUpon>
+    <Compile Include="Migrations\201902161653277_init.cs" />
+    <Compile Include="Migrations\201902161653277_init.Designer.cs">
+      <DependentUpon>201902161653277_init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="UI\AddUser.cs">
@@ -192,11 +188,8 @@
     <Compile Include="UI\ListUsers.Designer.cs">
       <DependentUpon>ListUsers.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Migrations\201812101758444_suplimentA.resx">
-      <DependentUpon>201812101758444_suplimentA.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201812120740501_deleteSup.resx">
-      <DependentUpon>201812120740501_deleteSup.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201902161653277_init.resx">
+      <DependentUpon>201902161653277_init.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -366,6 +359,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\fata.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verso.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

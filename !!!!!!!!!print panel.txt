@@ -1,0 +1,26 @@
+private void printDocument1_PrintPage(object sender, PrintPageEventArgs e)
+        {
+            Bitmap bmp = new Bitmap(panel1.Width, panel1.Height);
+
+            float tgtWidthMM = 210;  //A4 paper size
+            float tgtHeightMM = 297;
+            float tgtWidthInches = tgtWidthMM / 25.4f;
+            float tgtHeightInches = tgtHeightMM / 25.4f;
+            float srcWidthPx = bmp.Width;
+            float srcHeightPx = bmp.Height;
+            float dpiX = srcWidthPx / tgtWidthInches;
+            float dpiY = srcHeightPx / tgtHeightInches;
+
+            bmp.SetResolution(dpiX, dpiY);
+
+            panel1.DrawToBitmap(bmp, panel1.ClientRectangle);
+
+            e.Graphics.PageUnit = GraphicsUnit.Millimeter;
+            e.Graphics.DrawImage(bmp, 0, 0, tgtWidthMM, tgtHeightMM);
+        }
+
+        private void btnPrint_Click(object sender, EventArgs e)
+        {
+            printPreviewDialog1.Document = printDocument1;
+            printPreviewDialog1.Show();
+        }
