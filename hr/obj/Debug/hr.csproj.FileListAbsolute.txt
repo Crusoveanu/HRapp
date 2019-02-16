@@ -1,0 +1,141 @@
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\hr.exe.config
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\hr.exe
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\hr.pdb
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\EntityFramework.dll
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\MySql.Data.dll
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\Telerik.WinControls.dll
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\TelerikCommon.dll
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\EntityFramework.xml
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\MySql.Data.xml
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\Telerik.WinControls.xml
+C:\Users\hy\Desktop\HR App\hr\hr\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.Migrations.init.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.Properties.Resources.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.frmAddUser.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmAddCourse.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmEditRemoveCourse.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmEditRemoveUser.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmListCourses.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmMain.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmManageUsers.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmStatistics.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.UI.ListUsers.resources
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.csproj.GenerateResource.cache
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.csproj.CoreCompileInputs.cache
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.csproj.CopyComplete
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.exe
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.pdb
+C:\Users\hy\Desktop\HR App\hr\hr\obj\Debug\hr.csprojAssemblyReference.cache
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\hr.exe.config
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\hr.exe
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\hr.pdb
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\EntityFramework.dll
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\MySql.Data.dll
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\Telerik.WinControls.dll
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\TelerikCommon.dll
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\EntityFramework.xml
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\MySql.Data.xml
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\Telerik.WinControls.xml
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.csprojAssemblyReference.cache
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.Migrations.init.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.Properties.Resources.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.frmAddUser.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.UI.frmAddCourse.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.UI.frmEditRemoveCourse.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.UI.frmEditRemoveUser.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.UI.frmListCourses.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.UI.frmMain.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.UI.frmManageUsers.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.UI.frmStatistics.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.UI.ListUsers.resources
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.csproj.GenerateResource.cache
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.csproj.CoreCompileInputs.cache
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.csproj.CopyComplete
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.exe
+C:\Users\hy\Desktop\HR App\Backups\hr\hr\obj\Debug\hr.pdb
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\hr.exe.config
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\hr.exe
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\hr.pdb
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\EntityFramework.dll
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\MySql.Data.dll
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\Telerik.WinControls.dll
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\TelerikCommon.dll
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\EntityFramework.xml
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\MySql.Data.xml
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\Telerik.WinControls.xml
+C:\Users\crusomi001\Desktop\hr\hr\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.csprojAssemblyReference.cache
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.Migrations.init.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.Properties.Resources.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.frmAddUser.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.UI.frmAddCourse.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.UI.frmEditRemoveCourse.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.UI.frmEditRemoveUser.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.UI.frmListCourses.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.UI.frmMain.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.UI.frmManageUsers.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.UI.frmStatistics.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.UI.ListUsers.resources
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.csproj.GenerateResource.cache
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.csproj.CoreCompileInputs.cache
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.csproj.CopyComplete
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.exe
+C:\Users\crusomi001\Desktop\hr\hr\obj\Debug\hr.pdb
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\hr.exe.config
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\hr.exe
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\hr.pdb
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\EntityFramework.dll
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\ExcelDataReader.dll
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\MySql.Data.dll
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\Telerik.WinControls.dll
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\TelerikCommon.dll
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\EntityFramework.xml
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\ExcelDataReader.xml
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\MySql.Data.xml
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\Telerik.WinControls.xml
+C:\Users\crusomi001\Desktop\HR App\hr\hr\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.csproj.ResolveComReference.cache
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.Migrations.suplimentA.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.Migrations.deleteSup.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.Properties.Resources.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.frmAddUser.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.AddUserToCourse.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmAddCourse.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmEditRemoveCourse.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmEditRemoveUser.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmListCourses.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmMain.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmManageUsers.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmPrinter.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmStatistics.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.frmSupliment.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.UI.ListUsers.resources
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.csproj.GenerateResource.cache
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.csproj.CoreCompileInputs.cache
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.csproj.CopyComplete
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.exe
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.pdb
+C:\Users\crusomi001\Desktop\HR App\hr\hr\obj\Debug\hr.csprojAssemblyReference.cache
